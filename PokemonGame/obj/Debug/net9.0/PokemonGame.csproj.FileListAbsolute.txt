@@ -1,0 +1,14 @@
+/Users/Philip/Documents/GitHub/Lexicon3Pokemon/PokemonGame/bin/Debug/net9.0/PokemonGame
+/Users/Philip/Documents/GitHub/Lexicon3Pokemon/PokemonGame/bin/Debug/net9.0/PokemonGame.deps.json
+/Users/Philip/Documents/GitHub/Lexicon3Pokemon/PokemonGame/bin/Debug/net9.0/PokemonGame.runtimeconfig.json
+/Users/Philip/Documents/GitHub/Lexicon3Pokemon/PokemonGame/bin/Debug/net9.0/PokemonGame.dll
+/Users/Philip/Documents/GitHub/Lexicon3Pokemon/PokemonGame/bin/Debug/net9.0/PokemonGame.pdb
+/Users/Philip/Documents/GitHub/Lexicon3Pokemon/PokemonGame/obj/Debug/net9.0/PokemonGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Philip/Documents/GitHub/Lexicon3Pokemon/PokemonGame/obj/Debug/net9.0/PokemonGame.AssemblyInfoInputs.cache
+/Users/Philip/Documents/GitHub/Lexicon3Pokemon/PokemonGame/obj/Debug/net9.0/PokemonGame.AssemblyInfo.cs
+/Users/Philip/Documents/GitHub/Lexicon3Pokemon/PokemonGame/obj/Debug/net9.0/PokemonGame.csproj.CoreCompileInputs.cache
+/Users/Philip/Documents/GitHub/Lexicon3Pokemon/PokemonGame/obj/Debug/net9.0/PokemonGame.dll
+/Users/Philip/Documents/GitHub/Lexicon3Pokemon/PokemonGame/obj/Debug/net9.0/refint/PokemonGame.dll
+/Users/Philip/Documents/GitHub/Lexicon3Pokemon/PokemonGame/obj/Debug/net9.0/PokemonGame.pdb
+/Users/Philip/Documents/GitHub/Lexicon3Pokemon/PokemonGame/obj/Debug/net9.0/PokemonGame.genruntimeconfig.cache
+/Users/Philip/Documents/GitHub/Lexicon3Pokemon/PokemonGame/obj/Debug/net9.0/ref/PokemonGame.dll
